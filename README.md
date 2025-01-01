@@ -1,1 +1,3 @@
 # Scrivio
+
+Scrivio is your all-in-one solution for staying organized and productive. Effortlessly create and manage notes or to-do lists, assign categories or tags for quick organization, and set deadlines with helpful reminders to keep you on track. Whether you're planning your day, tracking tasks, or brainstorming ideas, Scrivio makes it easy to group notes by category, creation date, or due date for a tailored experience. With seamless syncing across your iPad and iPhone, your notes and tasks are always at your fingertips, helping you stay focused and in control no matter where life takes you.
